@@ -12,7 +12,8 @@ Input:
 Output:
 7
 7= 10 +10 +10 +10 +1 +1 +1
-
+@author Vithia An
+@version 1.0
  * */
 
 import java.util.Scanner;
